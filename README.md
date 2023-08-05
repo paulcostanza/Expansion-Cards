@@ -1,5 +1,5 @@
 # Expansion-Cards
-Click on each image card to review a new image. 
+Click on each image card to view a new image. 
 
 This project did not require anything too crazy or extreme. However, it was fun to work with the ***addEventListener***, as well as the ***.forEach()*** method in JavaScript. 
 
